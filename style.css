@@ -113,11 +113,11 @@ width: 100vh; */
     margin: 0 auto;
     width: 100vh;
 }
-/* .footer img{
+.footer img{
 padding: 20px;
 display: flex;
 gap: 10px;
-} */
+}
 .footer_img{
 padding-bottom: 10px;
 
